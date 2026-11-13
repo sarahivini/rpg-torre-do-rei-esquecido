@@ -83,7 +83,7 @@ Depois da ação do herói, o inimigo responde. O ciclo se repete até um dos la
 - **JDK 17 ou superior** (desenvolvido e testado com JDK 21). Para conferir, rode `javac -version` no terminal.
 - Nenhuma biblioteca externa: só a biblioteca padrão do Java.
 
-### Pelo VS Code (mais simples)
+### Pelo VS Code (mais simples e onde o projeto foi desenvolvido/testado)
 
 1. Instale a extensão **Extension Pack for Java** (Microsoft).
 2. Use **File > Open Folder** e abra a pasta do projeto (a que contém `src/` e `README.md`).
