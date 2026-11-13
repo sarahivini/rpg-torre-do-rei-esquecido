@@ -396,15 +396,15 @@ Na prática, para trocar o console por outra interface (gráfica, por exemplo) b
 
 ## 8. Capturas de tela
 
-![Captura de tela 1 da execução do jogo](docs/img/foto-1.png)
+![Captura de tela 1 da execução do jogo](docs/img/FOTO-1.png)
 
-![Captura de tela 2 da execução do jogo](docs/img/foto-2.png)
+![Captura de tela 2 da execução do jogo](docs/img/FOTO-2.png)
 
-![Captura de tela 3 da execução do jogo](docs/img/foto-3.png)
+![Captura de tela 3 da execução do jogo](docs/img/FOTO-3.png)
 
-![Captura de tela 4 da execução do jogo](docs/img/foto-4.png)
+![Captura de tela 4 da execução do jogo](docs/img/FOTO-4.png)
 
-![Captura de tela 5 da execução do jogo](docs/img/foto-5.png)
+![Captura de tela 5 da execução do jogo](docs/img/FOTO-5.png)
 
 ---
 
